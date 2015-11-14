@@ -4,7 +4,7 @@ Coursera-Getting-and-Cleaning-Data 2015 November
 1. Download and unzip the package in your working directory
 2. Download the R file in your working directory
 3. Run the R file, that executes the data transformations
-4. The R file has to following functions, which are steps the of the data transformations process:
+4. The R file has the following functions, which are steps the of the data transformations process:
  * loaddata1()
  * loaddata2()
  * loaddata3()
